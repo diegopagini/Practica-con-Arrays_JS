@@ -1,4 +1,11 @@
 .for {
   display: flex;
   flex-direction: column;
+  margin: 20px;
+  border: 1px solid black;
+}
+
+.div {
+  margin: 10px;
+  text-decoration: underline;
 }
